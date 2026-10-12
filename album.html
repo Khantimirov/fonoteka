@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HIT ME HARD AND SOFT</title>
+<link rel="icon" type="image/png" href="https://images.stockcake.com/public/5/b/8/5b80b248-5a77-4bbf-b439-1ee43b47ed6e_medium/synthwave-los-angeles-stockcake.jpg">
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="script.js" defer></script>
+</head>
+<body class="bg-[#212121] text-[#f5f5f5] font-sans p-6">
+<div class="max-w-[1872px] mx-auto grid gap-6 lg:grid-cols-[290px_1fr_350px]">
+
+  <div class="bg-black/10 rounded-2xl h-20 p-2 flex items-center gap-4">
+    <img class="w-16 h-16 rounded-full" src="images/avatar.png"/>
+    <b class="text-xl">Aydar Khantimirov</b>
+  </div>
+
+  <input type="search" placeholder="Search songs" class="bg-black/50 rounded-2xl h-20 px-5 text-xl font-bold placeholder-white lg:col-span-2 w-full">
+
+  <nav class="space-y-5 lg:mt-20">
+    <a href="index.html" class="block bg-black/50 rounded-2xl h-20 leading-[80px] px-3 text-xl font-bold border-2 border-transparent">Home</a>
+    <a href="playlists.html" class="block bg-black/50 rounded-2xl h-20 leading-[80px] px-3 text-xl font-bold border-2 border-transparent">Playlists</a>
+    <a href="favorites.html" class="block bg-black/50 rounded-2xl h-20 leading-[80px] px-3 text-xl font-bold border-2 border-white">Favorites</a>
+    <a href="charts.html" class="block bg-black/50 rounded-2xl h-20 leading-[80px] px-3 text-xl font-bold border-2 border-transparent">Charts</a>
+  </nav>
+
+  <main class="space-y-10 lg:mt-20">
+<a href="favorites.html" class="text-3xl font-bold block mb-4">&larr; Back</a>
+<section class="bg-black/20 rounded-2xl p-5">
+  <h2 class="text-3xl font-bold mb-3">Album name</h2>
+  <ul class="text-xl space-y-1"><li>
+    <a href="#" onclick="play('music/song1.m4a','SKINNY');return false" class="block hover:bg-white/10 rounded px-2 py-1">SKINNY</a></li>
+    <li><a href="#" onclick="play('music/song2.m4a','LUNCH');return false" class="block hover:bg-white/10 rounded px-2 py-1">LUNCH</a></li>
+    <li><a href="#" onclick="play('music/song3.m4a','CHIHIRO');return false" class="block hover:bg-white/10 rounded px-2 py-1">CHIHIRO</a></li>
+    <li><a href="#" onclick="play('music/song4.m4a','BIRDS OF A FEATHER');return false" class="block hover:bg-white/10 rounded px-2 py-1">BIRDS OF A FEATHER</a></li>
+    <li><a href="#" onclick="play('music/song5.m4a','WILDFLOWER');return false" class="block hover:bg-white/10 rounded px-2 py-1">WILDFLOWER</a></li>
+    <li><a href="#" onclick="play('music/song6.m4a','THE GREATEST');return false" class="block hover:bg-white/10 rounded px-2 py-1">THE GREATEST</a></li>
+    <li><a href="#" onclick="play('music/song7.m4a','L AMOUR DE MA VIE');return false" class="block hover:bg-white/10 rounded px-2 py-1">L'AMOUR DE MA VIE</a></li>
+    <li><a href="#" onclick="play('music/song8.m4a','THE DINNER');return false" class="block hover:bg-white/10 rounded px-2 py-1">THE DINNER</a></li>
+    <li><a href="#" onclick="play('music/song9.m4a','BITTERSUITE');return false" class="block hover:bg-white/10 rounded px-2 py-1">BITTERSUITE</a></li>
+    <li><a href="#" onclick="play('music/song10.m4a','BLUE');return false" class="block hover:bg-white/10 rounded px-2 py-1">BLUE</a></li></ul></section>
+  </main>
+
+  <aside class="lg:mt-20">
+    <h2 class="text-3xl mb-3">Now Playing</h2>
+    <img class="rounded-2xl w-full aspect-square flex" src="images/cover_hitmehardandsoft.jpg" id="pulsingImage" onclick="togglePulse()"/>
+    <p id="title" class="text-2xl mt-3">Pick a song</p>
+    <audio id="player" controls class="w-full mt-3"></audio>
+  </aside>
+</div>
+</body>
+</html>

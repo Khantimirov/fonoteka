@@ -1,0 +1,17 @@
+#pulsingImage{
+    cursor: pointer;
+    transition: transform 1s ease;
+}
+
+#pulsingImage.pulse{
+    animation: pulse 3s ease-in-out infinite; 
+}
+
+@keyframes pulse{
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(0.95);
+    }
+}
