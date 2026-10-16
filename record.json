@@ -1,0 +1,292 @@
+{
+  "songs": [
+    {
+      "id": "song_001",
+      "artist": "Billie Eilish",
+      "name": "Skinny",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_002",
+      "artist": "Billie Eilish",
+      "name": "Lunch",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_003",
+      "artist": "Billie Eilish",
+      "name": "Chihiro",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_004",
+      "artist": "Billie Eilish",
+      "name": "Birds of a Feather",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_005",
+      "artist": "Post Malone",
+      "name": "Paranoid",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_006",
+      "artist": "Post Malone",
+      "name": "Spoil My Night",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_007",
+      "artist": "Post Malone",
+      "name": "Rich & Sad",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_008",
+      "artist": "Post Malone",
+      "name": "Zack and Codeine",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_009",
+      "artist": "The Kid Laroi",
+      "name": "Me + You",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Kid_Laroi_-_BEFORE_I_FORGET.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_010",
+      "artist": "The Kid Laroi",
+      "name": "July",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Kid_Laroi_-_BEFORE_I_FORGET.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_011",
+      "artist": "The Kid Laroi",
+      "name": "Rather Be",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Kid_Laroi_-_BEFORE_I_FORGET.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_012",
+      "artist": "The Kid Laroi",
+      "name": "A Cold Play",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Kid_Laroi_-_BEFORE_I_FORGET.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_013",
+      "artist": "Bad Bunny",
+      "name": "Titi Me Pregunto",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/6/60/Bad_Bunny_-_Un_Verano_Sin_Ti.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_014",
+      "artist": "Bad Bunny",
+      "name": "Neverita",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/6/60/Bad_Bunny_-_Un_Verano_Sin_Ti.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_015",
+      "artist": "Bad Bunny",
+      "name": "Ojitos Lindos",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/6/60/Bad_Bunny_-_Un_Verano_Sin_Ti.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_016",
+      "artist": "Bad Bunny",
+      "name": "Callaita",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/6/60/Bad_Bunny_-_Un_Verano_Sin_Ti.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "song_017",
+      "artist": "Ravyn Lenae",
+      "name": "Love me Not",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/99/Ravyn_Lenae_-_Bird%27s_Eye.png/250px-Ravyn_Lenae_-_Bird%27s_Eye.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_018",
+      "artist": "Ravyn Lenae",
+      "name": "Genius",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/99/Ravyn_Lenae_-_Bird%27s_Eye.png/250px-Ravyn_Lenae_-_Bird%27s_Eye.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_019",
+      "artist": "Ravyn Lenae",
+      "name": "Bad idea",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/99/Ravyn_Lenae_-_Bird%27s_Eye.png/250px-Ravyn_Lenae_-_Bird%27s_Eye.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_020",
+      "artist": "Ravyn Lenae",
+      "name": "One wish",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/99/Ravyn_Lenae_-_Bird%27s_Eye.png/250px-Ravyn_Lenae_-_Bird%27s_Eye.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_021",
+      "artist": "Olivia Rodrigo",
+      "name": "Brutal",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b2/Olivia_Rodrigo_-_SOUR.png/250px-Olivia_Rodrigo_-_SOUR.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_022",
+      "artist": "Olivia Rodrigo",
+      "name": "Drivers License",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b2/Olivia_Rodrigo_-_SOUR.png/250px-Olivia_Rodrigo_-_SOUR.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_023",
+      "artist": "Olivia Rodrigo",
+      "name": "Good 4 u",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b2/Olivia_Rodrigo_-_SOUR.png/250px-Olivia_Rodrigo_-_SOUR.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+    {
+      "id": "song_024",
+      "artist": "Olivia Rodrigo",
+      "name": "Jealousy, Jealousy",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b2/Olivia_Rodrigo_-_SOUR.png/250px-Olivia_Rodrigo_-_SOUR.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_001",
+      "artist": "Billie Eilish",
+      "name": "Hit Me Hard And Soft",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "songs": ["song_001", "song_002", "song_003", "song_004"]
+    },
+    {
+      "id": "alb_002",
+      "artist": "Post Malone",
+      "name": "Beerbongs n Bentleys",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "songs": ["song_005", "song_006", "song_007", "song_008"]
+    },
+    {
+      "id": "alb_003",
+      "artist": "The Kid Laroi",
+      "name": "Before I Forget",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Kid_Laroi_-_BEFORE_I_FORGET.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "songs": ["song_009", "song_010", "song_011", "song_012"]
+    },
+    {
+      "id": "alb_004",
+      "artist": "Bad Bunny",
+      "name": "Un Verano Sin Ti",
+      "coverlink": "https://upload.wikimedia.org/wikipedia/en/6/60/Bad_Bunny_-_Un_Verano_Sin_Ti.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "songs": ["song_013", "song_014", "song_015", "song_016"]
+    },
+    {
+      "id": "alb_005",
+      "artist": "Ravyn Lenae",
+      "name": "Birds Eye",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/99/Ravyn_Lenae_-_Bird%27s_Eye.png/250px-Ravyn_Lenae_-_Bird%27s_Eye.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "songs": ["song_017", "song_018", "song_019", "song_020"]
+    },
+    {
+      "id": "alb_006",
+      "artist": "Olivia Rodrigo",
+      "name": "Sour",
+      "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b2/Olivia_Rodrigo_-_SOUR.png/250px-Olivia_Rodrigo_-_SOUR.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "songs": ["song_021", "song_022", "song_023", "song_024"]
+    }
+  ],
+  "playlists": [
+    {
+      "id": "pl_001",
+      "name": "Night Ride",
+      "coverlink": "",
+      "songs": ["song_003", "song_012", "song_018", "song_005", "song_022"]
+    },
+    {
+      "id": "pl_002",
+      "name": "Commute",
+      "coverlink": "",
+      "songs": ["song_007", "song_014", "song_019", "song_001", "song_024"]
+    },
+    {
+      "id": "pl_003",
+      "name": "Rainy day",
+      "coverlink": "",
+      "songs": ["song_004", "song_009", "song_011", "song_016", "song_020"]
+    },
+    {
+      "id": "pl_004",
+      "name": "above the sky",
+      "coverlink": "",
+      "songs": ["song_002", "song_006", "song_013", "song_017", "song_023"]
+    },
+    {
+      "id": "pl_005",
+      "name": "partynextdoor",
+      "coverlink": "",
+      "songs": ["song_005", "song_010", "song_015", "song_018", "song_021"]
+    },
+    {
+      "id": "pl_006",
+      "name": "morning",
+      "coverlink": "",
+      "songs": ["song_001", "song_008", "song_012", "song_019", "song_022"]
+    }
+  ],
+  "charts": [
+    {
+      "id": "chart_001",
+      "name": "Rock",
+      "coverlink": "",
+      "songs": ["song_003", "song_009", "song_014", "song_019", "song_021", "song_005"]
+    },
+    {
+      "id": "chart_002",
+      "name": "Hip Hop",
+      "coverlink": "",
+      "songs": ["song_006", "song_010", "song_015", "song_020", "song_023", "song_002"]
+    },
+    {
+      "id": "chart_003",
+      "name": "Alternative",
+      "coverlink": "",
+      "songs": ["song_001", "song_007", "song_012", "song_017", "song_024", "song_004"]
+    },
+    {
+      "id": "chart_004",
+      "name": "Pop",
+      "coverlink": "",
+      "songs": ["song_002", "song_008", "song_013", "song_018", "song_022", "song_005"]
+    },
+    {
+      "id": "chart_005",
+      "name": "Country",
+      "coverlink": "",
+      "songs": ["song_004", "song_011", "song_016", "song_019", "song_021", "song_006"]
+    },
+    {
+      "id": "chart_006",
+      "name": "Worldwide",
+      "coverlink": "",
+      "songs": ["song_005", "song_012", "song_017", "song_020", "song_023", "song_001"]
+    },
+    {
+      "id": "chart_007",
+      "name": "United States",
+      "coverlink": "",
+      "songs": ["song_003", "song_008", "song_014", "song_018", "song_024", "song_007"]
+    },
+    {
+      "id": "chart_008",
+      "name": "United Kingdom",
+      "coverlink": "",
+      "songs": ["song_001", "song_009", "song_013", "song_016", "song_022", "song_010"]
+    },
+    {
+      "id": "chart_009",
+      "name": "India",
+      "coverlink": "",
+      "songs": ["song_002", "song_006", "song_011", "song_015", "song_021", "song_004"]
+    },
+    {
+      "id": "chart_010",
+      "name": "Russia",
+      "coverlink": "",
+      "songs": ["song_007", "song_010", "song_015", "song_019", "song_023", "song_003"]
+    }
+  ]
+}

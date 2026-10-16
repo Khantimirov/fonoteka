@@ -23,17 +23,17 @@
     <a href="charts.html" class="block bg-black/50 rounded-2xl h-20 leading-[80px] px-3 text-xl font-bold border-2 border-transparent">Charts</a>
   </nav>
 
-  <main class="space-y-10 lg:mt-20">
+  <main id="main-element-animated" class="space-y-10 lg:mt-20 opacity-20 translate-y-5 transition-all duration-500 ease-in" onload="mainAnimation()">
 <section class="bg-black/20 rounded-2xl p-5">
   <h2 class="text-3xl font-bold mb-3">Quick Pick</h2>
   <div class="flex flex-wrap gap-5">
     <a href="album.html" class="text-center">
-    <img class="rounded-2xl w-[164px] h-[164px]" src="images/cover_hitmehardandsoft.jpg"/>
+    <img class="rounded-2xl w-[164px] h-[164px]" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"/>
     <p class="mt-1">CHIHIRO</p>
   </a>
   <a href="album.html" class="text-center">
-    <img class="rounded-2xl w-[164px] h-[164px]" src="images/cover_iceman.jfif"/>
-    <p class="mt-1">Ran to Atlanta</p>
+    <img class="rounded-2xl w-[164px] h-[164px]" src="https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"/>
+    <p class="mt-1">Rockstar</p>
   </a>
   <a href="album.html" class="text-center">
     <img class="rounded-2xl w-[164px] h-[164px]" src="images/cover_Chemical.png"/>
@@ -78,7 +78,7 @@
 
   <aside class="lg:mt-20">
     <h2 class="text-3xl mb-3">Now Playing</h2>
-    <img class="rounded-2xl w-full aspect-square flex" src="images/cover_hitmehardandsoft.jpg" id="pulsingImage" onclick="togglePulse()"/>
+    <img class="rounded-2xl w-full aspect-square flex" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" id="pulsingImage" onclick="togglePulse()"/>
     <p id="title" class="text-2xl mt-3">Pick a song</p>
     <audio id="player" controls class="w-full mt-3"></audio>
   </aside>
