@@ -27,25 +27,25 @@
     {
       "id": "song_005",
       "artist": "Post Malone",
-      "name": "Paranoid",
+      "name": "rockstar",
       "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "id": "song_006",
       "artist": "Post Malone",
-      "name": "Spoil My Night",
+      "name": "Psycho",
       "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "id": "song_007",
       "artist": "Post Malone",
-      "name": "Rich & Sad",
+      "name": "Better Now",
       "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
       "id": "song_008",
       "artist": "Post Malone",
-      "name": "Zack and Codeine",
+      "name": "Ball for Me",
       "coverlink": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c1/Beerbongs_%26_Bentleys_by_Post_Malone.png/250px-Beerbongs_%26_Bentleys_by_Post_Malone.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
     },
     {
@@ -193,37 +193,37 @@
     {
       "id": "pl_001",
       "name": "Night Ride",
-      "coverlink": "",
+      "coverlink": "https://s3-media0.fl.yelpcdn.com/bphoto/w815FggiwnGnWDPudCIovg/1000s.jpg",
       "songs": ["song_003", "song_012", "song_018", "song_005", "song_022"]
     },
     {
       "id": "pl_002",
       "name": "Commute",
-      "coverlink": "",
+      "coverlink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_fb5eOHTMJU1k8OJuBWN65GGixqR--RIjyY6ttDPmc67VdZrkk3OBSVcc&s=10",
       "songs": ["song_007", "song_014", "song_019", "song_001", "song_024"]
     },
     {
       "id": "pl_003",
       "name": "Rainy day",
-      "coverlink": "",
+      "coverlink": "https://static01.nyt.com/images/2021/10/21/us/21california-rain/merlin_196571676_12d4b68b-b151-412a-9e3e-b711eef9ad4b-mediumSquareAt3X.jpg",
       "songs": ["song_004", "song_009", "song_011", "song_016", "song_020"]
     },
     {
       "id": "pl_004",
       "name": "above the sky",
-      "coverlink": "",
+      "coverlink": "https://www.ocregister.com/wp-content/uploads/migration/o4b/o4b462-b88668776z.120160319150607000gh5fftag.10.jpg?w=1800&resize=1800,1800",
       "songs": ["song_002", "song_006", "song_013", "song_017", "song_023"]
     },
     {
       "id": "pl_005",
       "name": "partynextdoor",
-      "coverlink": "",
+      "coverlink": "https://bartenderatlas.com/wp-content/uploads/2020/02/04-12867-post/dtla-sq.jpg",
       "songs": ["song_005", "song_010", "song_015", "song_018", "song_021"]
     },
     {
       "id": "pl_006",
       "name": "morning",
-      "coverlink": "",
+      "coverlink": "https://images.squarespace-cdn.com/content/v1/510872dbe4b087221e89f943/1370962255012-SYNQUA3FNC7FEW3NR3MH/sunrise+over+griffith+park.jpg",
       "songs": ["song_001", "song_008", "song_012", "song_019", "song_022"]
     }
   ],
@@ -231,61 +231,61 @@
     {
       "id": "chart_001",
       "name": "Rock",
-      "coverlink": "",
+      "coverlink": "https://media.tenor.com/YovRlI1mFJsAAAAM/cat-headphones.gif",
       "songs": ["song_003", "song_009", "song_014", "song_019", "song_021", "song_005"]
     },
     {
       "id": "chart_002",
       "name": "Hip Hop",
-      "coverlink": "",
+      "coverlink": "https://i.pinimg.com/736x/70/ab/f2/70abf28404ee59707151fa92e27c44d7.jpg",
       "songs": ["song_006", "song_010", "song_015", "song_020", "song_023", "song_002"]
     },
     {
       "id": "chart_003",
       "name": "Alternative",
-      "coverlink": "",
+      "coverlink": "https://media.tenor.com/1RBeiCsAtUIAAAAM/dog-radiohead.gif",
       "songs": ["song_001", "song_007", "song_012", "song_017", "song_024", "song_004"]
     },
     {
       "id": "chart_004",
       "name": "Pop",
-      "coverlink": "",
+      "coverlink": "https://media.tenor.com/7Ng8Niw0XuwAAAAM/monkey-listening.gif",
       "songs": ["song_002", "song_008", "song_013", "song_018", "song_022", "song_005"]
     },
     {
       "id": "chart_005",
       "name": "Country",
-      "coverlink": "",
+      "coverlink": "https://media.tenor.com/TtjC6_qYUWYAAAAM/dog-headphone.gif",
       "songs": ["song_004", "song_011", "song_016", "song_019", "song_021", "song_006"]
     },
     {
       "id": "chart_006",
       "name": "Worldwide",
-      "coverlink": "",
+      "coverlink": "https://img.magnific.com/premium-photo/satellite-view-earth-globe-from-space-lights-by-night-africa-middle-east-asia-abstract_660230-39819.jpg?semt=ais_hybrid&w=740&q=80",
       "songs": ["song_005", "song_012", "song_017", "song_020", "song_023", "song_001"]
     },
     {
       "id": "chart_007",
       "name": "United States",
-      "coverlink": "",
+      "coverlink": "https://wcti12.com/resources/media2/1x1/1969/1440/516x0/90/7f374be4-75ed-4b6b-8316-4ceda2778626-GettyImages678844.jpg",
       "songs": ["song_003", "song_008", "song_014", "song_018", "song_024", "song_007"]
     },
     {
       "id": "chart_008",
       "name": "United Kingdom",
-      "coverlink": "",
+      "coverlink": "https://cdn-imgix.headout.com/media/images/216f669b473d05d53f723407d894d886-london-city-01.jpg",
       "songs": ["song_001", "song_009", "song_013", "song_016", "song_022", "song_010"]
     },
     {
       "id": "chart_009",
       "name": "India",
-      "coverlink": "",
+      "coverlink": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/42/73/a4/india-gate.jpg?w=1200&h=-1&s=1",
       "songs": ["song_002", "song_006", "song_011", "song_015", "song_021", "song_004"]
     },
     {
       "id": "chart_010",
       "name": "Russia",
-      "coverlink": "",
+      "coverlink": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/75/8c/3f/caption.jpg?w=500&h=500&s=1",
       "songs": ["song_007", "song_010", "song_015", "song_019", "song_023", "song_003"]
     }
   ]

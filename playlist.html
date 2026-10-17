@@ -11,7 +11,7 @@
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
-<body class="bg-[#212121] text-[#f5f5f5] font-sans p-6">
+<body data-page="playlist" class="bg-[#212121] text-[#f5f5f5] font-sans p-6">
   <div class="max-w-[1872px] mx-auto grid gap-6 lg:grid-cols-[290px_1fr_350px]">
 
     <div class="bg-black/10 rounded-2xl h-20 p-2 flex items-center gap-4">
@@ -33,41 +33,14 @@
         class="block bg-black/50 rounded-2xl h-20 leading-[80px] px-3 text-xl font-bold border-2 border-transparent">Charts</a>
     </nav>
 
-    <main id="main-element-animated" class="space-y-10 lg:mt-20 opacity-20 translate-y-5 transition-all duration-500 ease-in" onload="mainAnimation()">
-      <a href="playlists.html" class="text-3xl font-bold block mb-4">&larr; Back</a>
-      <section class="bg-black/20 rounded-2xl p-5">
-        <h2 class="text-3xl font-bold mb-3">Playlist name</h2>
-        <ul class="text-xl space-y-1">
-          <li><a href="#" onclick="play('music/song1.m4a','CHIHIRO');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Billie Eilish - CHIHIRO</a></li>
-          <li><a href="#" onclick="play('music/song2.m4a','everything i wanted');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Billie Eilish - everything i wanted</a></li>
-          <li><a href="#" onclick="play('music/song3.m4a','brutal');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Olivia Rodrigo - brutal</a></li>
-          <li><a href="#" onclick="play('music/song4.m4a','Into You');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Ariana Grande - Into You</a></li>
-          <li><a href="#" onclick="play('music/song5.m4a','Last Night');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Morgan Wallen - Last Night</a></li>
-          <li><a href="#" onclick="play('music/song6.m4a','Hollywoods Bleeding');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Post Malone - Hollywoods Bleeding</a></li>
-          <li><a href="#" onclick="play('music/song7.m4a','Swimming Pools');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Kendrick Lamar - Swimming Pools</a></li>
-          <li><a href="#" onclick="play('music/song8.m4a','Self Aware');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Temple City - Self Aware</a></li>
-          <li><a href="#" onclick="play('music/song9.m4a','Orbiter');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Noah Kahan - Orbiter</a></li>
-          <li><a href="#" onclick="play('music/song10.m4a','Be Her');return false"
-              class="block hover:bg-white/10 rounded px-2 py-1">Ella Langley - Be Her</a></li>
-        </ul>
-      </section>
-    </main>
+    <main id="main" class="space-y-10 lg:mt-20 opacity-20 translate-y-5 transition-all duration-500 ease-in" onload="mainAnimation()"></main>
 
     <aside class="lg:mt-20">
       <h2 class="text-3xl mb-3">Now Playing</h2>
-      <img class="rounded-2xl w-full aspect-square flex" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" id="pulsingImage" onclick="togglePulse()"/>
+      <img id="cover" alt="" class="w-full aspect-square rounded-2xl object-cover bg-neutral-600" onerror="this.removeAttribute('src')">
       <p id="title" class="text-2xl mt-3">Pick a song</p>
-      <audio id="player" controls class="w-full mt-3"></audio>
-    </aside>
+    <audio id="player" controls class="w-full mt-3"></audio>
+  </aside>
   </div>
 </body>
 </html>
